@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 200">
+
+    <defs>
+        <g id="rect1">
+            <rect x="0" y="0" width="10" height="200" 
+                fill-opacity="1" stroke-opacity="0.8"/>            
+        </g>
+    </defs>
+
+    <use
+        href="#rect1"
+        stroke="white"
+        fill="#635985" />
+
+</svg>

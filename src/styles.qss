@@ -1,0 +1,10 @@
+
+QMainWindow {
+    background-color: #18122B; 
+    background-color: qradialgradient(cx: 0, cy: 0, radius: 2, fx: 0.5, fy: 1, stop: 0 #393053, stop: 0.4 #18122b);
+}
+
+QGraphicsView, QSvgWidget {
+    background-color: transparent;
+    border: 0; 
+}
